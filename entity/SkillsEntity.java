@@ -1,4 +1,4 @@
-package vn.htv.HybridCV.entity;
+
 
 import lombok.Data;
 import lombok.Getter;
